@@ -5,11 +5,11 @@
   <p>
     <a href="https://bondomod.pages.dev/">Website</a> ·
     <a href="https://discord.gg/jfCxkr9FtF">Discord</a> ·
-    <a href="https://github.com/MrBondoRL/BondoMod-Releases/releases">Downloads</a>
+    <a href="https://github.com/BondoRL/BondoMod-Releases/releases">Downloads</a>
   </p>
 </div>
 
-> **Release status:** The currently published installer opens an offline notice. The next app version, `0.2.0-beta.1`, is being prepared. Please wait for its release before installing BondoMod to use the app.
+> **Latest release:** BondoMod `0.2.0` is available for Windows 10 and 11.
 
 ## What BondoMod includes
 
@@ -20,12 +20,12 @@
 
 ## Download and install
 
-1. Open the [BondoMod website](https://bondomod.pages.dev/) or the [release downloads](https://github.com/MrBondoRL/BondoMod-Releases/releases).
-2. When the new release is announced, download **BondoMod-Installer.exe**. The reusable installer checks the signed release manifest and downloads the current app version.
+1. Open the [BondoMod download page](https://bondomod.pages.dev/#download).
+2. Download **BondoMod-Installer.exe** for Windows. The reusable installer checks the signed release manifest and downloads the current app version.
 3. Run the installer on Windows. Open BondoMod and follow the introductory steps.
 4. To add a plugin, download its ZIP from the [plugin catalog](https://bondomod.pages.dev/#plugins), then use **Plugins → Add plugin** in the app.
 
-The installer link remains the same across releases: [BondoMod-Installer.exe](https://github.com/MrBondoRL/BondoMod-Releases/releases/latest/download/BondoMod-Installer.exe). It currently points to the offline release; use it after the new release is published.
+The installer link remains the same across releases: [BondoMod-Installer.exe](https://github.com/BondoRL/BondoMod-Releases/releases/latest/download/BondoMod-Installer.exe).
 
 ## Help and updates
 
