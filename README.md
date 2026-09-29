@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://bondomod.pages.dev/icon.png" width="96" height="96" alt="BondoMod logo" />
+  <img src="https://bondomod.pages.dev/bondomod-icon.png" width="96" height="96" alt="BondoMod logo" />
   <h1>BondoMod</h1>
   <p>A Windows companion app for Rocket League, with optional plugins and workshop maps.</p>
   <p>
