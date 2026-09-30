@@ -9,7 +9,9 @@
   </p>
 </div>
 
-> **Latest release:** BondoMod `0.2.1` is available for Windows 10 and 11.
+> **Latest release:** BondoMod `0.2.2` is available for Windows 10 and 11.
+
+This update performs a one-time reset of local settings, sign-in, installed plugins and BondoMod clip recordings in the configured recording folder. Your account and Plus access remain on the server. Follow onboarding, sign in again and reinstall the plugins you want.
 
 ## What BondoMod includes
 
