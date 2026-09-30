@@ -9,7 +9,7 @@
   </p>
 </div>
 
-> **Latest release:** BondoMod `0.2.0` is available for Windows 10 and 11.
+> **Latest release:** BondoMod `0.2.1` is available for Windows 10 and 11.
 
 ## What BondoMod includes
 
